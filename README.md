@@ -10,7 +10,6 @@ Curso creado por profesores Aarón Montoya y Matías Serrano.
 
 - <https://github.com/disenoUDP/dis8644-2026-1-procesos-1>: primera mitad del curso, marzo y junio, sesiones hasta 07b.
 - <https://github.com/disenoUDP/dis8644-2026-1-procesos-2>: segunda mitad del curso, mayo y junio, sesiones desde 08a.
-- <https://github.com/disenoUDP/dis8644-2026-1-proyectos>: resumen de los 3 proyectos grupales y el examen final.
 
 ## Equipo docente
 
@@ -19,6 +18,15 @@ Esta segunda versión del curso es dictada por:
 - Profesore Aarón Montoya <https://github.com/montoyamoraga>
 - Profesor Matías Serrano <https://github.com/misaaaaaa>
 - Ayudante Emilia Guerra <https://github.com/emiguerra>
+
+## Proyectos
+
+Este repositorio concentra los proyectos grupales que estudiantes desarrollaron durante el semestre, con sus respectiva documentación.
+
+- proyecto-01: fines de abril, sintetizador sonoro funcional con chips integrado, protoboard y cableado.
+- proyecto-02: fines de mayo, sintetizador sonoro modelado en kicad, con esquemáticos, pcb y bill of materials.
+- proyecto-03: fines de junio, sintetizador sonoro funcional con pcb, soldadura, carcasa y montaje de componentes.
+- examen: inicios de julio, concierto con sintetizador sonoro.
 
 ## Horario
 
